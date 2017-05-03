@@ -1,0 +1,23 @@
+{
+  "name": "generator-wp-theme",
+  "version": "1.0.0",
+  "description": "",
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^0.24.1"
+  }
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/trendsoft/generator-wp-theme.git"
+  },
+  "author": "hadi <hadi@trendsoft.org>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/trendsoft/generator-wp-theme/issues"
+  },
+  "homepage": "https://github.com/trendsoft/generator-wp-theme#readme"
+}
