@@ -9,7 +9,7 @@
   "keywords": ["yeoman-generator"],
   "dependencies": {
     "yeoman-generator": "^0.24.1"
-  }
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/trendsoft/generator-wp-theme.git"
